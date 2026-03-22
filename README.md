@@ -89,7 +89,7 @@ Only the last **3 sessions** are kept to avoid excessive disk usage.
 ### Monitor logs in real-time
 
 ```bash
-tail -f /var/log/nm-reconnect.log
+tail -F /var/log/nm-reconnect.log
 ```
 
 ### Example log output
