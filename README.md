@@ -29,13 +29,13 @@ A NetworkManager dispatcher script for Linux that automatically reconnects to Wi
 ### 1. Download the script
 
 ```bash
-curl -o /tmp/99-wifi-reconnect.sh https://raw.githubusercontent.com/nheolinkin/NetworkManager-WiF-Auto-Reconnect/refs/heads/main/99-wifi-reconnect.sh
+curl -o /tmp/99-wifi-reconnect.sh https://raw.githubusercontent.com/nheolinkin/NetworkManager-Wifi-Auto-Reconnect/refs/heads/main/99-wifi-reconnect.sh
 ```
 
 Or clone the repo:
 
 ```bash
-git clone https://github.com/nheolinkin/NetworkManager-WiF-Auto-Reconnect.git
+git clone https://github.com/nheolinkin/NetworkManager-Wifi-Auto-Reconnect.git
 ```
 
 ### 2. Copy to NetworkManager dispatcher directory
