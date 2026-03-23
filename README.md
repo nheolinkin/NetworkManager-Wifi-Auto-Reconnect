@@ -4,6 +4,7 @@
 
 A NetworkManager dispatcher script for Linux that automatically reconnects to WiFi when the connection drops — similar to how smartphones handle network reconnection.
 
+[![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-181717?style=flat&logo=github)](https://github.com/nheolinkin/NetworkManager-Wifi-Auto-Reconnect)
 ---
 
 ## ✨ Features
