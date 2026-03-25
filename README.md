@@ -1,5 +1,7 @@
 <meta name="google-site-verification" content="eo_b1xV27spOjQRyCrBy2xkRx9D37z1fpF5tve-bA4o" />
 
+[![English](https://img.shields.io/badge/Language-English-blue?style=flat)](README.md)
+[![Tiếng Việt](https://img.shields.io/badge/Ngôn%20ngữ-Tiếng%20Việt-red?style=flat)](README.vi.md)
 # 📶 NetworkManager WiFi Auto-Reconnect
 
 A NetworkManager dispatcher script for Linux that automatically reconnects to WiFi when the connection drops — similar to how smartphones handle network reconnection.
