@@ -1,12 +1,12 @@
 <meta name="google-site-verification" content="eo_b1xV27spOjQRyCrBy2xkRx9D37z1fpF5tve-bA4o" />
 
+[![English](https://img.shields.io/badge/Language-English-blue?style=flat)](README.md)
+[![Tiếng Việt](https://img.shields.io/badge/Ngôn%20ngữ-Tiếng%20Việt-red?style=flat)](README.vi.md)
 # 📶 NetworkManager WiFi Auto-Reconnect
 
 Một dispatcher script cho NetworkManager trên Linux, tự động kết nối lại WiFi khi mất mạng — tương tự như cách smartphone xử lý việc kết nối lại mạng.
 
 [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-181717?style=flat&logo=github)](https://github.com/nheolinkin/NetworkManager-Wifi-Auto-Reconnect)
-[![English](https://img.shields.io/badge/Language-English-blue?style=flat)](README.md)
-[![Tiếng Việt](https://img.shields.io/badge/Ngôn%20ngữ-Tiếng%20Việt-red?style=flat)](README.vi.md)
 
 ---
 
