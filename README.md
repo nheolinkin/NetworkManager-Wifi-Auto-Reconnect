@@ -46,6 +46,7 @@ git clone https://github.com/nheolinkin/NetworkManager-Wifi-Auto-Reconnect.git
 ### 2. Copy to NetworkManager dispatcher directory
 
 ```bash
+cd NetworkManager-Wifi-Auto-Reconnect
 sudo cp 99-wifi-reconnect.sh /etc/NetworkManager/dispatcher.d/99-wifi-reconnect.sh
 ```
 
